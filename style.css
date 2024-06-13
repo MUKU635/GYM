@@ -8,4 +8,6 @@ color: rgba(5, 0, 0, 0.986)
 background-color: #fcfde789;}
 *{background-color: antiquewhite;}
 *{text-align: center;}
-div{width: 50%;margin-left: 25%;}
+div{width: 50%;margin-left: 25%;
+   border: 2pt solid black;
+padding: 1pt;}
